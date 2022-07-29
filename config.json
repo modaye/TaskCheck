@@ -1,0 +1,7 @@
+{
+  "hostname": "192.168.18.213",
+  "port": 22,
+  "username": "Taihui",
+  "password": "123456",
+  "check_url": "www.baidu.com"
+}
